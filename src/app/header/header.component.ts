@@ -1,7 +1,7 @@
-imoprt { Component } from "@angular/core";
+import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-header',
-  tmplateUrl: './header.component.html'
+  templateUrl: './header.component.html'
 })
 export class HeaderComponent {}
