@@ -32,5 +32,7 @@ export class PostsService {
       this.postsUpdated.next([...this.posts]);
     });
   }
-
 }
+
+
+// Su4uctNY9Xew4kec
